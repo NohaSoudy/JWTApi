@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/JWTApi/bin/Debug
+/JWTApi/obj/Debug
+/JWTApi/obj/JWTApi.csproj.nuget.dgspec.json
+/JWTApi/obj/JWTApi.csproj.nuget.g.props
+/JWTApi/obj/JWTApi.csproj.nuget.g.targets
+/JWTApi/obj/project.assets.json
+/JWTApi/obj/project.nuget.cache
